@@ -30,6 +30,10 @@
 <img src="https://img.shields.io/badge/docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=2496ED" /> <img src="https://img.shields.io/badge/jenkins-20232a.svg?style=for-the-badge&logo=jenkins&logoColor=D24939" /> <img src="https://img.shields.io/badge/redis-20232a.svg?style=for-the-badge&logo=redis&logoColor=FF4438" />
 <br/>
 <br/>
+## IDE
+<img src="https://img.shields.io/badge/intellij-20232a.svg?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/vscode-20232a.svg?style=for-the-badge&logo=v&logoColor=0077FF" /> <img src="https://img.shields.io/badge/arduino-20232a.svg?style=for-the-badge&logo=arduino&logoColor=00878F" />
+<br/>
+<br/>
 ## etc
 <img src="https://img.shields.io/badge/linux-20232a.svg?style=for-the-badge&logo=linux&logoColor=FCC624" /> <img src="https://img.shields.io/badge/arduino-20232a.svg?style=for-the-badge&logo=arduino&logoColor=00878F" /> <img src="https://img.shields.io/badge/git-20232a.svg?style=for-the-badge&logo=git&logoColor=#F05032" />
 <!--보유 기술-->
