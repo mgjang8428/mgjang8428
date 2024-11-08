@@ -37,16 +37,20 @@
 <br/>
 
 <!--주요 프로젝트-->
-# Projects!
+# Projects
+수정중..
+<br/>
+<br/>
 <!--주요 프로젝트-->
 
 <!--링크-->
-# Links
-<img src="https://img.shields.io/badge/blog-20232a.svg?style=for-the-badge&logo=github&logoColor=ffffff&link=https%3A%2F%2Fmgjang8428.github.io" /> <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=ffffff&link=https://github.com/mgjang8428" /> <img src="https://img.shields.io/badge/info-20232a.svg?style=for-the-badge&logo=instapaper&logoColor=0098FF&link=https://github.com/mgjang8428" />
+# Links  
+<a href="https://mgjang8428.github.io"><img src="https://img.shields.io/badge/blog-20232a.svg?style=for-the-badge&logo=github&logoColor=ffffff"/></a> <a href="https://github.com/mgjang8428"><img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=ffffff"/></a> <img src="https://img.shields.io/badge/info-20232a.svg?style=for-the-badge&logo=instapaper&logoColor=0098FF&link=https://github.com/mgjang8428" /> <a href="mailto:mgjang8428@gmail.com"><img src="https://img.shields.io/badge/email-20232a.svg?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 <!--링크-->
 <!--내용-->
 <br/>
 <br/>
+
 
 <!--푸터-->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=8cb1ff&height=90&section=footer)
